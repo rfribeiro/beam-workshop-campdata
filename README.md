@@ -17,4 +17,5 @@ Contém um histórico e o porque utilizar o Apache Beam hoje em dia
 ## 🤖 Notebook do Apache Beam
 
 [Notebook - Workshop Apache Beam](./Apache_Beam-Workshop.ipynb)
+
 Notebook com uma introdução aos conceitos de pipeline e principais transformações para iniciar no Apache Beam
