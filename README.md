@@ -1,4 +1,4 @@
-# 🐝 - Apresentação Apache Beam no Campdata
+# 🐝 Apresentação Apache Beam no Campdata
 
 Repositório com o PDF da apresentação e o notebook utilizados sobre Introdução do Apache Beam no Webinar realizado pela Campdata (http://campdata.com.br/)
 
