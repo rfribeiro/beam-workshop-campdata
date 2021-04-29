@@ -2,8 +2,13 @@
 
 Repositório com o PDF da apresentação e o notebook utilizados sobre Introdução do Apache Beam no Webinar realizado pela Campdata (http://campdata.com.br/)
 
-## 📝 Apresentação
+## 🎥 Vídeo no Youtube
 
+O vídeo com a apresentação se encontra no canal da campdata no Youtube
+
+[Youtube - Apresentação Apache Beam](https://www.youtube.com/watch?v=q65qZ_lJBmg)
+
+## 📝 Apresentação
 
 [Apresentação - Apache Beam](./Apache_Beam-Introducao.pdf)
 
