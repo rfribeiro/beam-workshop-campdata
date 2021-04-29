@@ -4,15 +4,17 @@ Repositório com o PDF da apresentação e o notebook utilizados sobre Introduç
 
 ## 🎥 Vídeo no Youtube
 
+[Youtube - Apresentação Apache Beam](https://www.youtube.com/watch?v=q65qZ_lJBmg)
+
 O vídeo com a apresentação se encontra no canal da campdata no Youtube
 
-[Youtube - Apresentação Apache Beam](https://www.youtube.com/watch?v=q65qZ_lJBmg)
 
 ## 📝 Apresentação
 
 [Apresentação - Apache Beam](./Apache_Beam-Introducao.pdf)
 
 Contém um histórico e o porque utilizar o Apache Beam hoje em dia
+
 
 ## 🤖 Notebook do Apache Beam
 
